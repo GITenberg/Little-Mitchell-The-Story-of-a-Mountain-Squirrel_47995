@@ -1,4 +1,5 @@
 _repo: Little-Mitchell-The-Story-of-a-Mountain-Squirrel_47995
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Horsfall, R. Bruce (Robert Bruce)
@@ -9,12 +10,17 @@ contributor:
     deathdate: 1948
     gutenberg_agent_id: '2143'
     url: http://www.gutenberg.org/2009/agents/2143
+covers:
+- cover_type: archival
+  image_path: 47995-h/images/cover.jpg
 creator:
   author:
     agent_name: Morley, Margaret W.
     gutenberg_agent_id: '44562'
     url: http://www.gutenberg.org/2009/agents/44562
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47995#Little-Mitchell-The-Story-of-a-Mountain-Squirrel
 gutenberg_issued: '2015-01-16'
 gutenberg_type: Text
 identifiers:
